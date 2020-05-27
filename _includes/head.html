@@ -1,0 +1,28 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" id="wp-block-library-css" href="/wc/css/style.min.css">
+  <link rel="stylesheet" id="bootstrap-css" href="/wc/css/bootstrap.min.css">
+  <link rel="stylesheet" id="fontawesome-css" href="/wc/css/font-awesome.min.css">
+  <link rel="stylesheet" id="animate-css" href="/wc/css/animate.min.css">
+  <link rel="stylesheet" id="animated-headline-css" href="/wc/css/animated-headlines.css">
+  <link rel="stylesheet" id="fancybox-css" href="/wc/fancybox/jquery.fancybox.css">
+  <link rel="stylesheet" id="wellnesscenter-wp-utility-css" href="/wc/css/wellnesscenter-wp-utility.css">
+  <link rel="stylesheet" id="wellnesscenter-fw-utility-css" href="/wc/css/wellnesscenter-fw-utility.css">
+  <link rel="stylesheet" id="wellnesscenter-styles-css" href="/wc/css/wellnesscenter-styles.css">
+  <link rel="stylesheet" id="wellnesscenter-i8fix-css" href="/wc/css/wellnesscenter-ie8fix.css">
+  <link rel="stylesheet" id="wellnesscenter-override-css" href="/wc/css/wellnesscenter-override.css">
+
+  <script src="/wc/js/jquery.js"></script>
+  <script src="/wc/js/jquery-migrate.min.js"></script>
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css'> 
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>
