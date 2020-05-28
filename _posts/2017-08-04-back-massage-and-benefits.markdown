@@ -17,7 +17,7 @@ tags:
 - Relax
 ---
 
-There was a time when full body massage therapy was [thought of as a luxury](/full-day-spa-cape-town-treatments/). Due to life style changes and other factors, however, full body [massage therapy](/massage-cape-town-spa-packages-treatments/) has become increasingly popular in treating a variety of ailments including back pain.
+There was a time when full body massage therapy was [thought of as a luxury](/full-day-spa-cape-town-treatments/). Due to life style changes and other factors, however, full body massage therapy has become increasingly popular in treating a variety of ailments including back pain.
 
 A [back massage](/top-spas-and-massage-centres-in-cape-town/) is especially beneficial to anyone because it hosts the nerves which are key for everyday function. Most of us have suffered back pain and what you need is a qualified, [experienced masseuse](/thai-massages-in-cape-town/) to get you the relief you need at a massage in Cape Town.
 

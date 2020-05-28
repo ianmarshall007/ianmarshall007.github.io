@@ -104,7 +104,7 @@ Majeka House Spa offers hot stone massages, skin peeling treatments and more. Th
 
 You get a totally different view of the vineyards and mountains from the other side of Cape Town. My favourite massage is always the Elixer massage.
 
-[www.ginkgospa.com](http://www.ginkgospa.com/)
+www.ginkgospa.com
 
 **Address:** Steenberg Estate, Tokai Road, Constantia, Cape Town
 

@@ -76,7 +76,7 @@ Massages applied to the lower back and leg can ensure that alignment in your bod
 **4. Support and relief from lymphedema**
 Lymphedema is a condition that causes swelling in extremities. It occurs when lymphatic fluids are not able to circulate properly causing serious problems in one's legs and thighs. A thigh massage helps in improving and helping the legs go back to normal. Please note that the massage does not cure the illness, but it provides support in managing the condition.
 
-You can check out various therapists and book a [massage in Cape Town](/massage-cape-town-spa-packages-treatments/) for your thighs and legs and get first hand experience of the many benefits that are derived from it. If you have any pre-existing health conditions or injuries, you should consult your doctor before having the massage done.
+You can check out various therapists and book a massage in Cape Town for your thighs and legs and get first hand experience of the many benefits that are derived from it. If you have any pre-existing health conditions or injuries, you should consult your doctor before having the massage done.
 Ensure when looking for an erotic massage in Cape Town, you find a trained and licensed massage therapist to perform it. That way the experience will not only be pleasant but the risk of injury or other issues is significantly reduced.
 
 <p><iframe title="Massage Therapy Techniques Legs, Thighs &amp; Hips, For Cyclists Jen Hilman Relaxing ASMR" width="800" height="450" src="https://www.youtube.com/embed/4aEizaYpgNM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

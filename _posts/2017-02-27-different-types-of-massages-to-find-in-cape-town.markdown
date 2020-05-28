@@ -59,7 +59,6 @@ Is a healing system combining acupressure with yoga stretching of the body.
 ## Where to find Thai massage?
 
 
-[www.capemassage.co.za](http://capemassage.co.za/)
 [www.na-bua.co.za](http://www.na-bua.co.za/)
 [www.ruanthaispa.co.za](http://www.ruanthaispa.co.za/ rel=)
 
@@ -102,7 +101,6 @@ Originated from the traditions of Buddism and Hinduism. Currently being used as 
 
 
 [www.houseoftantra.com](http://houseoftantra.com/)
-[www.durgatantraschool.co.za](http://www.durgatantraschool.co.za/pages/tantra-sacred-massage.php/)
 
 
 ## What is Sensual massage?

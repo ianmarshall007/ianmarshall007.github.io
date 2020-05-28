@@ -46,7 +46,7 @@ Desir Intimate Collection is an online sex toy store. They are specialized in pr
 This sex shop was made by women for women. Sometimes I really like it when women do this, they take action to build products especially adult toys for themselves. This is when it gives rise to many new innovative classy designs, with amazing adult toys to help ladies run experiments, explore and truly enjoy the ultimate orgasm. Give this store a try, its unique with their own designs of lipstick-shaped vibrators. Items ordered online should be delivered within three to five working days.
 
 
-[Honey Honey Website](https://honeyhoney.co.za/)
+Honey Honey Website
 
 
 

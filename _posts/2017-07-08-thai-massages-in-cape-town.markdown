@@ -82,7 +82,6 @@ The relaxing properties of the lavender aroma and it's use in lotions and salts 
 
 Hatyai was established by a Thai lady passionate about the art of traditional Thai massage. After studying traditional Thai massage in Thailand and working for years as a therapist, she pursued her dream of providing healing to those who may not have the opportunity to visit Thailand for the experience.
 
-[www.capemassage.co.za](http://www.capemassage.co.za/)
 
 **Address:** Pepper St, Cape Town City Centre, Cape Town
 

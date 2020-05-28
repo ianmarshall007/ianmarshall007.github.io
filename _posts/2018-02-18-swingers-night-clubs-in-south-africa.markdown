@@ -82,8 +82,6 @@ Club Rome prides itself in being for all lifestyles. The term lifestyle is a bro
 
 You can walk into Club Rome and just sit like you would normally like to sit and have a drink. Just check it out, one thing you will realize is that the people are much friendlier. There are swingers from all levels, some only want to be watched, while others like to watch. While others do not want to swap partners. Club Rome caters for all wants and needs. So what happens during the rest of the night is really up for you to decide.
 
-Website: [www.clubrome.co.za](https://www.clubrome.co.za/)
-
 
 ## Pharoahs
 

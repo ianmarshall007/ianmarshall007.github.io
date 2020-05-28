@@ -120,7 +120,6 @@ Not all the escorts displayed on the websites are beautiful in real life. The mo
 - [www.modelescorts.co.za](http://modelescorts.co.za/)
 - [www.superiorcourtesans.co.za](http://superiorcourtesans.co.za/south-africa/cape-town-escorts-gallery)
 - [www.sexycape.co](http://sexycape.co/south-africa/cape-town-escorts)
-- [www.firstclassescorts.co.za](http://firstclassescorts.co.za/index.php?option=com_mtree&view=listcats&cat_id=1&Itemid=111/)
 - [www.passiongirlssa.co.za](https://www.passiongirlssa.co.za/index.php?option=com_mtree&task=listcats&cat_id=78)
 
 

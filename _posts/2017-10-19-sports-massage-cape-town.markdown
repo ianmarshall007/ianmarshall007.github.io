@@ -17,7 +17,7 @@ tags:
 
 Massage is recorded as one of the earliest forms of physical therapy and was used over 3000 years ago in China, India and Greece. Its popular use in the Western world is largely due to the work of Per Henrik Ling (1776 - 1839), who developed the form of massage now known as [Swedish massage](https://en.wiktionary.org/wiki/Swedish_massage).
 
-[Sports massage](http://www.happymassage.com/wiki/Sports_Massage) was developed to help athletes prepare their bodies for optimal performance, recover after a big event, or function well during training. Sports massage emphasizes prevention and healing of injuries to the muscles and tendons. Don't ever confuse sensual or erotic massage with sport massage as it focuses on [different parts of the body](/five-reasons-you-should-have-a-massage-after-your-workout/).
+[Sports massage](http://www.happymassage.com/wiki/Sports_Massage) was developed to help athletes prepare their bodies for optimal performance, recover after a big event, or function well during training. Sports massage emphasizes prevention and healing of injuries to the muscles and tendons. Don't ever confuse sensual or erotic massage with sport massage as it focuses on different parts of the body.
 
 
 ## What is Sports Massage?

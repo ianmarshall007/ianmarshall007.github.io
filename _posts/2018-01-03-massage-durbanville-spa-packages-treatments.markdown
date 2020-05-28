@@ -51,8 +51,6 @@ For complete relaxation, there are full body massage Durbanville spa packages an
 
 Arriba Spa is a family driven spa, owned by Zita who has a serious passion for clients’ needs in the health, hair and beauty industry. They at Arriba Spa offer spa services to suit any of your desired needs and our highly qualified spa professionals will go out of their way to tailor make treatments that will leave you feeling completely rejuvenated and relaxed. They at Arriba Spa offer a full range of massage Durbanville spa packages treatments including facial therapy treatments, massage therapy treatments, spray tan, tan can facilities and many more. Their goal is for you to fully experience our signature Spa services, where beauty, comfort and personalized attention, combine to create a memorable and rejuvenating experience. Their aim entails building enduring and rewarding relationships with their clients through knowledge, wellness and superior service. Our treatments, designed to satisfy the whole body, are provided by our highly qualified Spa professionals.
 
-[www.arribaspa.co.za](http://www.arribaspa.co.za/arriba-spa)
-
 **Address:** De Villiers Drive, Shop 68, Cobble Walk Centre, Sonstraal Heights, Cape Town
 
 

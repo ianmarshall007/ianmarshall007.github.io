@@ -70,18 +70,9 @@ Tantra is usually practiced differently everywhere as it is interpreted differen
 
 She is passionate about supporting men and women on their journey to a more conscious living and a deeper experience of intimacy. Tantra Sacred Massage is more than a massage – it is a teaching devoted to personal healing and growth. Massage sessions give you an impression of what Tantra is about and how embracing this path will transform your experience of living, loving and intimacy, taking the earnest student to a deeper sense of sensuality and a more heart-centered sexuality. She has been one of the active few since the beginning of tantra massages in South Africa.
 
-[www.tantra-massage.co.za](http://www.tantra-massage.co.za/index.html)
-
 <p><iframe title="Tantra - Exploring Sacred Sexuality" width="800" height="450" src="https://www.youtube.com/embed/I0sf8eSx9sY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-## Durga Tantra School South Africa
 
-
-The _Durga Tantra School _was formed for the purpose of facilitating Tantra workshops and retreats along the lines of similar European Tantra schools. This is the first school in South Africa offering Tantra training to single women, men and couples in this way. The aim of the school is to offer quality coaching and training in seminars & experiential weekend retreats of a high professional standard. They wish to create a warm, loving and accepting space for individuals to explore various aspects of the tantric tradition.
-
-[www.durgatantraschool.co.za](http://www.durgatantraschool.co.za/)
-
-<p><iframe title="12 Ways to Higher Sex: Tantric Breathing Techniques" width="800" height="450" src="https://www.youtube.com/embed/Wz7D625yZoY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## Johannesburg Tantra Massage
 
@@ -99,8 +90,6 @@ Tantra Queen Layla is an internationally acclaimed Tantric masseuse based in San
 [www.tantraqueen.com](https://www.tantraqueen.com/)
 
 [www.snapchat.com/tantraqueen](https://www.snapchat.com/add/tantraqueen)
-
-[www.instagram.com/tantraqueenlayla/](https://www.instagram.com/tantraqueenlayla/)
 
 [www.facebook.com/tantraqueenlayla/](https://www.facebook.com/tantraqueenlayla/)
 

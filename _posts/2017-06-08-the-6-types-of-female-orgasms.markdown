@@ -33,7 +33,7 @@ The **clitoral orgasm** is the most common orgasm and the easiest to achieve. It
 
 ![Clitoris](https://upload.wikimedia.org/wikipedia/commons/a/a5/Clitoris_inner_anatomy.png)
 
-The vaginal orgasm or the **G-Spot orgasm** is the second most common type, but harder to achieve. This orgasm is obtained by finding the soft spongy feeling section inside the front wall of the vaginal canal and stimulating it in a come-hither motion. There is a debate on whether the g-spot exists or not, but it was discovered by Dr. Gräfenberg, and there are various [books](https://www.amazon.com/Unleashing-G-Spot-Orgasm-Step-Step-ebook/dp/B003ODHOCM/ref=sr_1_14?s=books&ie=UTF8&qid=1490653716&sr=1-14&keywords=g-spot) on the topic if you’re interested in learning more about it!
+The vaginal orgasm or the **G-Spot orgasm** is the second most common type, but harder to achieve. This orgasm is obtained by finding the soft spongy feeling section inside the front wall of the vaginal canal and stimulating it in a come-hither motion. There is a debate on whether the g-spot exists or not, but it was discovered by Dr. Gräfenberg, and there are various books on the topic if you’re interested in learning more about it!
 
 The **blended orgasm** is a mix between the two orgasms mentioned above. It is gained by stimulating both the clit and g-spot at the same time; this is most commonly done with a [rabbit vibrator](https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/2e09ab8a-ef2e-4647-b975-33b3ca8321cf.png._CB273607491__SR970,300_.png). But it can also be done by a talented massage therapist, such as [Ian Marshall](/exclusive-interview-with-ian-marshall/).
 

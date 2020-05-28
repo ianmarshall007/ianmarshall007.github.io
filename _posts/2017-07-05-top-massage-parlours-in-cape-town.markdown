@@ -83,8 +83,6 @@ Yanmei immigrated to Cape Town, South Africa in 2005 and opened up a massage and
 
 On offering is Sports Massage Therapy, Pregnancy Massage and Chinese Therapy done by Lindsey Yves.
 
-[www.sportandmedical.co.za](http://www.sportandmedical.co.za/)
-
 **Address:** The Palms, The Roof Top, 5th Flr West Wing, Sir Lowry Road, Woodstock, Cape Town
 
 <p><iframe title="Sports Massage in Cape Town" width="800" height="450" src="https://www.youtube.com/embed/qHrU-19LQo8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
