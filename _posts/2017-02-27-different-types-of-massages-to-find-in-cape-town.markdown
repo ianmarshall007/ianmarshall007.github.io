@@ -44,6 +44,7 @@ yst_prominent_words:
 - thai
 - thai massage
 - town
+description: Different types of massages to find in Cape Town and what is on offer
 ---
 
 The beauty of sensual massage is that it can be customized to each client differently. The sensual experience will be different all the time. A variety of strokes can be used depending on what the client enjoys. There are various other types of massages to find in Cape Town that follows certain structure which I will name below:

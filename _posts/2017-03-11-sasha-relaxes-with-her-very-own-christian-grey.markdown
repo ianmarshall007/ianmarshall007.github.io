@@ -39,6 +39,7 @@ yst_prominent_words:
 - shades of grey
 - toy
 - wand
+description: Short Story about how Sasha relaxes with her very own Christian Grey who is in fact a massage therapist from Cape Town.
 ---
 
 Sasha set the book down and pulled the bullet vibe away from her still clenching pussy. Her chest heaved with each ragged breath. The trilogy, [50 Shades of Grey](https://en.wikipedia.org/wiki/Fifty_Shades_(novel_series)), was much more exhilarating than she had anticipated. Having just finished the final book in the series, she was ready for more – maybe to experience her own adventure. Maybe to get a version of her very own Christian Grey.

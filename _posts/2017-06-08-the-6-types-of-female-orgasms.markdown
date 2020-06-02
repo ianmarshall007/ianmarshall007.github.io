@@ -23,6 +23,7 @@ tags:
 - Sexual Fantasy
 - Sexual Massage
 - Yoni Massage
+description: Detailed explanation of six different types of female orgasms a vagina can achieve in a female body
 ---
 
 While we are just now starting to explore the female orgasm, they were used as a medical treatment for hysteria in the 1800’s. Female hysteria was treated by sensual massage (rubbing the woman’s genitals) until she reached orgasm. Nowadays we know that this isn’t quite right, but we also recognize that orgasms can help you relax, get small tasks off your mind, and find a place of peace. There are various types of female orgasms.

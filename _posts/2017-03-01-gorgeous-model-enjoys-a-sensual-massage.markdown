@@ -43,6 +43,7 @@ yst_prominent_words:
 - time
 - touch
 - working
+description: How a gorgeous model enjoys a sensual massage.
 ---
 
 Julia flipped her hair over her shoulder, as the photographer demanded she smile wider and change her pose. This shoot was supposed to be like a vacation, more relaxed, but the photographer was pickier than any she had ever worked with! Her slender shoulders ached from the constant pose changes and she knew she wouldn’t sleep a wink tonight.

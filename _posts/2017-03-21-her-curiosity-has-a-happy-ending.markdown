@@ -38,6 +38,7 @@ yst_prominent_words:
 - room
 - sensual massage
 - therapist
+description: Erotic Story of a Happy Ending for a male massage therapist and a female client.
 ---
 
 Sensual massage Cape Town. Erotic was all her friends could talk about. They had gone on a girl’s vacation, much like a girl’s night out and were all treated to an erotic massage with a happy ending from a male massage therapist. Jamie had to miss out because of a work meeting, but now she regretted it and was overly curious about what an erotic massage entailed. She asked her girl friends, but all they could do was giggle in reply and try to discreetly explain what had happened. The curiosity too much, Jamie ordered a sensual massage with a happy ending in Cape Town for the following week.

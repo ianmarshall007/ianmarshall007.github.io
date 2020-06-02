@@ -40,6 +40,7 @@ yst_prominent_words:
 - іѕn't a luxury
 - уоu
 - уоur
+description: Why to stop faking an orgasm and the benefits for achieving a real orgasm.
 ---
 
 Many of my clients tell me they are faking an orgasm to their husbands. This is such a shame because the husband does not have the skills, expertise or experience to provide highest levels of foreplay for an orgasm to reach. I take the woman to the next levels of climax and who does not want to be massaged?

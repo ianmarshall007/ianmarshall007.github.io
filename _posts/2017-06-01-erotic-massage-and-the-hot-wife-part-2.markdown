@@ -46,6 +46,7 @@ yst_prominent_words:
 - moved his hands
 - set up the room
 - time
+description: Erotic Massage in Cape Town for the liberated sexy hot wife. This is part 2 of the Erotic Story.
 ---
 
 For Part one of this erotic story, click read [Erotic Massage and the Hot Wife](/erotic-massage-and-the-hot-wife/)

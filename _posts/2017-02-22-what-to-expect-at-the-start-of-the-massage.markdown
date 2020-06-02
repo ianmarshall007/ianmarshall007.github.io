@@ -37,6 +37,7 @@ yst_prominent_words:
 - starts
 - time
 - town
+description: This post aims to explain what is expected at the start of the massage in Cape Town.
 ---
 
 Below are some of the rules that I follow when getting ready for the massage and exactly what to expect. I also explain what happens at the very start of the massage in Cape Town. I try to be at the client's venue a few minutes before the session starts (always better to be early than late).

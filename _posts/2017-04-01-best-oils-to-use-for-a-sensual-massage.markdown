@@ -40,6 +40,7 @@ yst_prominent_words:
 - skin
 - soothes
 - soothes anxiety
+description: Various oils to use for a sensual massage in Cape Town.
 ---
 
 What massage oils to use for a sensual massage can truly help set the mood. You will want to choose a proper base for the type of massage you plan to give. For deep tissue or reflexology massages you will want a heavy massage oil, but for a sensual massage you’ll want a lighter base to help your hands glide across the skin of the recipient.

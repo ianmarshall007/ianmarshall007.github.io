@@ -41,6 +41,7 @@ yst_prominent_words:
 - warm
 - warm shower
 - water
+description: Explanation to clients on how to prepare for an Erotic Massage in Cape Town especially for first time clients.
 ---
 
 Discussing some tips on how prepare for an erotic massage.

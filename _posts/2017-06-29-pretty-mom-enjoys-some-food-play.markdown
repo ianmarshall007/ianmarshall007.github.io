@@ -46,6 +46,7 @@ yst_prominent_words:
 - whipped cream
 - whipped cream and chocolate
 - whipped cream chocolate
+description: How a person passionate about food can connect with massage and sexuality. Mom Enjoys Some Food Play.
 ---
 
 Mia loved food. It was her passion. Not only was she the head chef at Chicken n’ Pasta, she was the owner! It was a challenge, and at times she wasn’t even sure if she wanted to have such responsibility, but when her 5 star ratings came in or raving reviews were posted, she knew it was well worth it.

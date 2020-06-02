@@ -46,6 +46,7 @@ yst_prominent_words:
 - sexy erotic massage
 - sexy erotic massage in cape
 - time
+description: Story of how Linda enjoys a Sexy Erotic Massage in Cape Town.
 ---
 
 This short story is used as a Case Study for future clients to learn more about the erotic massage.

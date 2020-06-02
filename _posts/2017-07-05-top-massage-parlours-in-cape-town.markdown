@@ -34,6 +34,7 @@ yst_prominent_words:
 - yanmei's professional
 - yanmei's professional massage
 - yanmei's professional massage and beauty
+description: Top Massage Parlours in Cape Town for lovely women to try out.
 ---
 
 There are multiple Massage Parlours in Cape Town that I have tried out. Only a few is worth a try. For more luxury spa treatments, read my previous post on [top spas and massage centres in Cape Town](/top-spas-and-massage-centres-in-cape-town/).

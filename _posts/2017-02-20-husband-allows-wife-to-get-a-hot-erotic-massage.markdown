@@ -42,6 +42,7 @@ yst_prominent_words:
 - therapist
 - thighs
 - work
+description: Short fantasy story of husband allowing wife to get a hot erotic massage with a male massage therapist in Cape Town.
 ---
 
 Stressed out and tense, Rachelle approached her husband, Brady, about a hot erotic massage service in Cape Town her girlfriends could not stop talking about. She explained that an erotic massage is when both the client and the therapist are naked, and she will experience a full body orgasm, but there will be no sexual intercourse. Turned on by the idea of his wife being at such a relaxing state of orgasmic bliss, Brady was more than happy to let her go.

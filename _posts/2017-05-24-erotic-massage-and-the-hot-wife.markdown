@@ -44,6 +44,7 @@ yst_prominent_words:
 - sheets covering the cot
 - thought of greg
 - thought of greg watching
+description: Erotic Massage in Cape Town for the liberated sexy hot wife.
 ---
 
 To find out more about Hotwifing as well as the benefits - click [Why Women would Enjoy and Benefit Hotwifing](http://www.yourtango.com/experts/mr-mike-hatcher/why-women-would-enjoy-and-benefit-hotwifing). More reasons to join the Hotwifing circle - click [Three Reasons to get involved in Hotwifing](http://www.swingerlifestyle.com/3-reasons-to-get-involved-in-hotwifing/).

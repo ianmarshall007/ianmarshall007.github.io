@@ -37,6 +37,7 @@ yst_prominent_words:
 - town treatments
 - treatments
 - winelands
+description: Full Day Spa Cape Town Treatments to treat you and your loved one. Massages are for special occasions, so celebrate them wisely.
 ---
 
 There are a few massage full or half day spa Cape Town treatments. The places I liked are the places where you have to take a long drive to get to. In other words it feels like a short road trip.

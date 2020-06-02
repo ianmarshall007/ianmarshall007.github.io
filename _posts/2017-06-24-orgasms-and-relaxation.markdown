@@ -24,6 +24,7 @@ tags:
 - Sensual Massage
 - Sexual Massage
 - Yoni Massage
+description: Explanation of how orgasms and relaxation work together as well as how the female brain reacts when achieving a powerful orgasm.
 ---
 
 In a [previous post](/the-6-types-of-female-orgasms/), I mentioned that orgasms and relaxation were once used to treat “hysteria.” I also mentioned that sensual, nude full body massage in Cape Town is a great, erotic way to relax. But just how do orgasms aide in [relaxation](https://en.wikipedia.org/wiki/Relaxation_technique)? What about [orgasms](/stop-faking-an-orgasm/) helps one to relax?

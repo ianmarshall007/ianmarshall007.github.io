@@ -42,6 +42,7 @@ yst_prominent_words:
 - sexy sensual massage
 - therapist
 - worked
+description: How a wife enjoys a secret sexy sensual massage without her husband knowing about it.
 ---
 
 “I have a meeting today at 2:30 PM, and I won’t be able to use my phone during that time. It’ll be about an hour to an hour and a half.” Becca informed her husband. Of course, she didn’t really have a meeting, she was just tired of his constant whining and in dire need of a break. She had scheduled a full body secret sexy sensual massage in Cape Town with a professional male massage therapist.

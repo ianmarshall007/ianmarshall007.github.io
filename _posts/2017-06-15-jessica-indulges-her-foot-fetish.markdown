@@ -44,6 +44,7 @@ yst_prominent_words:
 - therapist
 - toes
 - wiggled her toes
+description: Erotic Story on getting a foot fetish fantasy in Cape Town.
 ---
 
 Jessica always had dreams about something regarding foot fetish.

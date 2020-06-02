@@ -39,6 +39,7 @@ yst_prominent_words:
 - table mountain
 - town
 - v a waterfront
+description: This post aims to explain the Top Spars and Massage centres in Cape Town.
 ---
 
 This post helps to show where the top spas and massage centres in Cape Town. This is where you can get the ultimate treatment to restart your body and mind. I believe everybody should be able to get a custom made massage or facial. From offerings ranging from Hot Stone to Deep Tissue, Aromatherapy to Swedish Massage in Cape Town. They also offer beautiful skin packages. The people that work at massage spas are experts when it comes to advising on skin and beauty.

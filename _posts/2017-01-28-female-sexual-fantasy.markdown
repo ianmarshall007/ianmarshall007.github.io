@@ -41,6 +41,7 @@ yst_prominent_words:
 - sexual fantasy
 - town
 - woman
+description: Making wildest dreams for ladies come true in the form of a massage in Cape Town. Ian Marshall will make sure your female sexual fantasy becomes a reality.
 ---
 
 Female sexual fantasy is the fantasy that all females desire to experience. Most females do not have the knowledge, expertise and resources to experience their wanted fantasy. I am here to provide the expertise as well as knowledge and experience to my amazing clients. Many clients choose me because I keep getting referred by current clients. I always make sure that a female's wildest erotic dreams come true. I offer personalized sensual massage services based on boundaries. I am based in Cape Town and also travel the world. Which woman does not want to be massaged in sexual manner without asking for anything in return? I go through all the erogenous zones of the female body slowly with a great amount of concentration.

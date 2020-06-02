@@ -44,6 +44,7 @@ yst_prominent_words:
 - playing
 - tell
 - therapist
+description: How Alisa Tells Jean About Fulfilling Her Deepest Desires
 ---
 
 Alisa leaned over the table, her hair almost sweeping across her brunch, and whispered “Jean, I had the most amazing weekend last week. I have to tell you about this.” Intrigued, Jean leaned in and encouraged Alisa to tell her more.

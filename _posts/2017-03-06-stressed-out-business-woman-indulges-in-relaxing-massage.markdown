@@ -44,6 +44,7 @@ yst_prominent_words:
 - room
 - silk
 - stroked her lips
+description: Business woman indulges in relaxing massage while enjoying her sexual fantasy with her favourite male massage therapist Ian Marshall in Cape Town.
 ---
 
 Closing out her email, Barbra sighed. Being a CEO at a large corporate company in Johannesburg was not all it was cracked up to be. The stress alone was enough to make her hate her job. Emails, meetings, appointments, it was so boring and she was carrying more tension in her body now than she ever had!
