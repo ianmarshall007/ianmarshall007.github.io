@@ -43,6 +43,7 @@ yst_prominent_words:
 - town
 - truth
 - truth again
+description: Husband Sends Wife for Massage Therapy in Cape Town and enjoys it as much as one big rollercoaster ride.
 ---
 
 The appointment for massage therapy in Cape Town was set, the plans were made, and Lily could not wait for her massage appointment. Her coworker had told her about a private professional massage therapist in Cape Town who performed massage of a sensual and erotic nature and would entertain her deepest fantasy. Lily had always been enthralled with the idea of playing a naughty game of truth or dare with a stranger. Obviously Lily had to get permission from her husband first. Her husband was resistant in the beginning but then eventually allowed her to enjoy herself. He thought a happy wife is by far better than a sad wife.

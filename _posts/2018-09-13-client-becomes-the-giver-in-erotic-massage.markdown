@@ -19,6 +19,7 @@ tags:
 - Sexual Fantasy
 - Sexual Massage
 - Yoni Massage
+description: Female client becomes the giver in erotic massage.
 ---
 
 Carly had everything going for her, successful 27 year old make-up artist. She loves travelling, going to new places, taking beautiful photos of herself and uploading it to her Instagram profile. She is addicted to looking at her Instagram likes each time she posts a new photo of herself. Not only is she addicted to Instagram but her business runs on Instagram, each time people view her profile they have the option of clicking on her website link. To cut it short she does her marketing by taking selfies and other photo's in spectacular locations.

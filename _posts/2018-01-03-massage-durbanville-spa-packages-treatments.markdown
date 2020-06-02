@@ -16,6 +16,7 @@ tags:
 - Massage Oil
 - Pampering
 - Spa
+description: Massage Durbanville Spa Packages Treatments - this post explains where to find massage packages and treatments in Durbanville Cape Town
 ---
 
 For you that are looking for massages in Durbanville Cape Town, I have helped by simplifying it in this post. In your Google Search, you probably used 'Durbanville massage cape town', 'Durbanville massage spa packages' or 'Massage Durbanville Spa Packages'.

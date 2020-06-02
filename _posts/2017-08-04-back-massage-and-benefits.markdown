@@ -15,6 +15,7 @@ tags:
 - Massage Oil
 - Pampering
 - Relax
+description: Back massage and the benefits. Get the ultimate massage in Cape Town.
 ---
 
 There was a time when full body massage therapy was [thought of as a luxury](/full-day-spa-cape-town-treatments/). Due to life style changes and other factors, however, full body massage therapy has become increasingly popular in treating a variety of ailments including back pain.

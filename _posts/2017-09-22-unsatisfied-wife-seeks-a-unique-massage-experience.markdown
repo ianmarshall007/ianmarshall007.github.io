@@ -44,6 +44,7 @@ yst_prominent_words:
 - time
 - unsatisfied
 - unsatisfied wife
+description: Unsatisfied Wife Seeks a Unique Massage Experience from a Professional Erotic Massage Therapist.
 ---
 
 After about 5 minutes, Josh had rolled off of his unsatisfied wife Lottie who was asleep. However, before he fell asleep he expressed how good “that was.” And how much he loved fucking her. Sadly, she couldn’t stand it! It never lasted long enough and foreplay didn’t exist with him.

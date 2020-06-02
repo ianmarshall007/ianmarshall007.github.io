@@ -14,6 +14,7 @@ tags:
 - Male Massage Therapist
 - Massage Cape Town
 - Massage Oil
+description: This post highlights the advantages and disadvantages of using male massage therapists. Also compares them to female massage therapists.
 ---
 
 Male massage therapists are stronger than female counter parts. The male therapists who are still massage therapists today are very talented, passionate and dedicated. They are able to bring a much deeper massage experience. A good massage therapist will understand a client’s needs and concerns.

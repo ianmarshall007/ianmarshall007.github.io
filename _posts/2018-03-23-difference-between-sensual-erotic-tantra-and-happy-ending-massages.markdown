@@ -42,6 +42,7 @@ yst_prominent_words:
 - west
 - world
 - zones throughout the massage
+description: Difference between Sensual, Erotic, Tantra and Happy Ending Massages? Explaining the different types of sexual massage on offer around the world.
 ---
 
 There are different types of sexual massages offered around the world, I would like to take the opportunity to highlight the difference because many future clients and people exploring this beautiful world does not know the definition.
@@ -127,13 +128,13 @@ Further links on external resources:
 
 
 
- 	
+
   * [Nuru Massage](https://en.wikipedia.org/wiki/Nuru_(massage))
 
- 	
+
   * [Tantra Massage](https://en.wikipedia.org/wiki/Tantra_massage)
 
- 	
+
   * [Kama Sutra](https://en.wikipedia.org/wiki/Kama_Sutra)
 
 

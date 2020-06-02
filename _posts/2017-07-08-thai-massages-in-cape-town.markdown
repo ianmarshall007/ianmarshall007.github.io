@@ -37,6 +37,7 @@ yst_prominent_words:
 - thai massages in cape town
 - town
 - traditional thai massage
+description: Describing what Thai massage is and where to find Thai massages in Cape Town.
 ---
 
 For those that are searching for a Thai massages in Cape Town, I have helped by simplifying it in this post. In your Google Search, you probably used 'thai massage cape town' or 'where to find thai massages in cape town' and it has been a mission finding the right Thai massage to visit in Cape Town. In Thailand you wouldn't need to do a Google Search for Thai massages because there is a Thai shop on every corner. Before we get to the actual massage parlour names in Cape Town, let me introduce by explaining what Thai Massage exactly is.

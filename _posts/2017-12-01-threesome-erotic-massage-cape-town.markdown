@@ -48,6 +48,7 @@ yst_prominent_words:
 - sensual massage therapist
 - size bed
 - time
+description: Two ladies go a for Threesome Erotic Massage in Cape Town.
 ---
 
 Watching Kelly knead dough is like watching a thing of beauty. Watching her do it when she doesn’t know anyone is watching her is even better. This makes her partner Nicole get to the beginning stages of arousal.

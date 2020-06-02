@@ -9,6 +9,7 @@ title: Best Adult Sex Shops in Cape Town
 wordpress_id: 1812
 categories:
 - Lifestyle in Cape Town
+description: Best Adult Sex Shops in Cape Town that stocks erotic lingerie, adult toys, vibrators, dildo's, massage oil, bdsm adult kit and so much more.
 ---
 
 Since the release of [Fifty Shades of Grey](https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey), more adult sex shops in Cape Town and the world have begun to open their doors for customers. They stock lingerie and more specifically erotic lingerie. Many other products for really great ways to spice up your sex life your partner. Most women go to adult sex shops to buy adult toys such as dildos, vibrators and lube. But the couples seem to buy more of the [bondage](/sasha-relaxes-with-her-very-own-christian-grey/), discipline, dominance and submission toys.

@@ -39,6 +39,7 @@ yst_prominent_words:
 - tantra sacred
 - tantra sacred massage
 - tantra school
+description: Tantra Massages in South Africa and where to find tantra practitioners.
 ---
 
 I have summed up all the tantra massages in South Africa, main cities to find tantra massage are in Johannesburg and Cape Town.

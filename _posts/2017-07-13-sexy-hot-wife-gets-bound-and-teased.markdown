@@ -41,6 +41,7 @@ yst_prominent_words:
 - sexy hot wife
 - wife
 - wrists and ankles
+description: Short erotica of how a Sexy Hot Wife Gets Bound and Teased.
 ---
 
 The light turned red at the last second, causing a sexy hot wife named Julia to slam on the breaks. She was already late for work and every red light in town seemed to be out to get her. As she slammed on her breaks and her coffee sloshed over the side, her bag flew off the middle console and into the back seat. Letting out a stressed sigh, she dug her purse out of the back floor board.

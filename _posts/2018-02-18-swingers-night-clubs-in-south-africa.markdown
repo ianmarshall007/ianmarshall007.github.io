@@ -42,6 +42,7 @@ yst_prominent_words:
 - swingers night clubs
 - swingers night clubs in south
 - swingers playground
+description: Swingers Night Clubs in South Africa specifically in the Cape Town and Johannesburg region. Liza's Lounge, Club Rome and Pharoahs.
 ---
 
 Swinging is a world of kinks and fetishes where [sexual preferences](/female-sexual-fantasy/) are defined by a whole set of acronyms. Many Swingers Night Clubs in South Africa see it as more than a pastime, and will often refer to it as "the lifestyle". In these clubs women hit on the men. Men are not allowed to hit on the women unless the rules change for that night. Swinging is also defined as wife swapping. Sometimes it is fun to go and just watch. While other couples prefer to be watched.

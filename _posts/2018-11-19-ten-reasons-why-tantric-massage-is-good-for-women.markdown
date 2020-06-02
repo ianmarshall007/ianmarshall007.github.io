@@ -39,6 +39,7 @@ yst_prominent_words:
 - type of massage
 - types of orgasms
 - women
+description: Ten Reasons why Tantric Massage is good for Women and how it should help every day to achieve powerful female orgasms.
 ---
 
 Tantric massage has been around for in both western and eastern parts of the world to assist with revitalizing the soul, body and mind. Many of the [massage types](/difference-between-sensual-erotic-tantra-and-happy-ending-massages/) have traced to thousands of years, they used it to remove pain from the body, mind and soul. While many would disagree, I believe that Tantric massage is good for women because it was designed specifically for women.
