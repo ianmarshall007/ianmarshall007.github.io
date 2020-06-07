@@ -1,0 +1,49 @@
+<meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:description" content="{{ page.description }}">
+{%- if page.id == "home" %}
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }}">
+{% else %}
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
+{%- endif -%}
+{%- if page.url %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+{%- endif -%}
+{% if page.path contains '_posts' %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.url }}/about/">
+{%- endif -%}
+{%- if page.featured-image -%}
+  <meta property="og:image" content="{{ site.url }}/{{ page.featured-image }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}/images/pages/treatment-3.jpg">
+{%- endif -%}
+{%- if page.categories -%}
+  {% for category in page.categories limit:1 %}
+  <meta property="article:section" content="{{ category }}">
+  {% endfor %}
+{%- endif -%}
+{%- if page.tags -%}
+  {%- for tag in page.tags -%}
+  <meta property="article:tag" content="{{ tag }}">
+  {% endfor %}
+{%- endif -%}
+
+{%- if page.summary -%}
+  <meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:title" content="{{site.title | page.title }}">
+{%- endif -%}
+
+{%- if page.image -%}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{{ site.url }}/images/pages/treatment-3.jpg">
+{%- endif -%}
