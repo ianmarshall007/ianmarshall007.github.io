@@ -34,9 +34,17 @@
                           <div class="post-content-text">
                               <!-- Article content -->
                                   	<!-- Article content -->
-  	<div class="entry-content">
 
   {{ content }}
+
+  <div class="entry-content">
+    <div class="tagcloud"> Tags:
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}" rel="tag"> {{ tag_name }}</a>
+    {% endfor %}
+  </div>
+
 	</div> <!-- end entry-content -->
 
 </div>
@@ -48,14 +56,15 @@
 
   <div class="sidebar">
       <aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>
-        {%- for post in site.posts -%}
         <ul>
+        {%- for post in site.posts -%}
                 <li>
         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                 </li>
         {%- endfor -%}
         </ul>
-  </aside>    </div> <!-- end sidebar -->
+       </aside>
+</div> <!-- end sidebar -->
 
 </div>
 
