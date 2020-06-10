@@ -41,7 +41,8 @@
     <div class="tagcloud"> Tags:
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}" rel="tag"> {{ tag_name }}</a>
+      <!-- <a href="/tag/{{ tag_name }}" rel="tag"> {{ tag_name }}</a> -->
+      <span>{{ tag_name }}</span>
     {% endfor %}
   </div>
 
